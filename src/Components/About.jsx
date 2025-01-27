@@ -1,4 +1,5 @@
 import React from 'react'
+// import build from '/public/architectural-building.jpg'
 
 const About = () => {
   return (
@@ -12,7 +13,7 @@ const About = () => {
             </div>
             
             <div className='w-1/2 flex justify-center items-center'>
-            <img src='\public\architectural-building.jpg' alt='build' className='max-sm:max-w-[350px]' />
+            <img src='\architectural-building.jpg' alt='build' className='max-sm:max-w-[350px]' />
             </div>
     
         </div>
